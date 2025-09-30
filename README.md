@@ -95,7 +95,51 @@ Ini merupakan tampilan package terbaru saya
 - Bagian ini menerapan method overloading pada method tampilkanPerforma(). Method pertama tanpa parameter, method kedua dengan parameter String tambahan. Perbedaan parameter ini memungkinkan Java membedakan kedua method meskipun namanya sama, sehingga terbukti menerapkan polymorphism jenis overloading.
 
 
+# Output
 
+
+<img width="558" height="212" alt="image" src="https://github.com/user-attachments/assets/3c7cdb20-d0ed-49b1-b478-fa25c705b02d" />
+
+
+
+- Tampilan Awal dari sistem.
+
+
+<img width="836" height="235" alt="image" src="https://github.com/user-attachments/assets/6769a5eb-67a3-40fe-b174-7d7544d84e35" />
+
+
+
+- Tampilan ketika user memilih pilihan satu, user akan melakukan pemilihan apakah akan memasukan pemain senior atau akademi lalu memasukan data pemain sesuai yang dipilih.
+
+
+<img width="1360" height="269" alt="image" src="https://github.com/user-attachments/assets/6d5b0725-8f96-45a5-a6e2-030efa5907cb" />
+
+
+- Selanjutnya ini adalah tampilan saat user ingin melihat daftar pemain yang ada, dimana user bisa memilih daftar pemain apa yang ingin dilihat, apakah ingin memilih menampilkan semua, pemain senior, atau pemain akademi.
+
+
+<img width="632" height="361" alt="image" src="https://github.com/user-attachments/assets/2d0a17ce-c99b-4d6d-a08c-988e20d6a15d" />
+
+
+- Tampilan saat user melakukan update, dimana terdapat pilihan untuk mengantisipasi adanya kesamaan data dari pemain senior dan pemain junior jika tidak dipisahkan.
+
+
+<img width="858" height="369" alt="image" src="https://github.com/user-attachments/assets/b79f6c0b-f9a6-4089-acd5-c8ea3b3db6b3" />
+
+
+- Tampilan saat menghapus pemain.
+
+
+<img width="846" height="127" alt="image" src="https://github.com/user-attachments/assets/91f4371f-464e-4bae-b471-b7edbe350509" />
+
+
+- Tampilan saat user mencari pemain yang ingin dicari.
+
+
+<img width="800" height="122" alt="image" src="https://github.com/user-attachments/assets/9e2750be-7044-4a45-a596-9465cf0a0c8f" />
+
+
+- Tampilan saat user keluar program.
 
 
 
