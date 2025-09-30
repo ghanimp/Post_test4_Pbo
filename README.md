@@ -65,6 +65,12 @@ Ini merupakan tampilan package terbaru saya
 - Interface Performa digunakan sebagai kontrak yang mewajibkan setiap class pemain memiliki metode tampilkanPerforma() dan tampilkanInfo(). Melalui interface ini program dapat memanfaatkan konsep abstraction dan polymorphism, di mana setiap class pemain memiliki implementasi berbeda walaupun metode yang dipanggil sama.
 
 
+<img width="787" height="71" alt="image" src="https://github.com/user-attachments/assets/d6dc347b-bf36-49b2-9863-8c9afab2e0e2" />
+
+
+- Baris kode public class Pemain extends PemainBase implements Performa menerapkan abstraction dengan menggabungkan abstract class dan interface. Keyword extends mewarisi PemainBase, sedangkan implements menjalankan kontrak dari interface Performa. Kombinasi keduanya membuktikan penggunaan abstract class dan interface secara bersamaan.
+
+
 <img width="667" height="269" alt="image" src="https://github.com/user-attachments/assets/f5be1492-53b4-49fd-af15-0ae34d878f28" />
 
 
@@ -83,6 +89,10 @@ Ini merupakan tampilan package terbaru saya
 - Kode ini terlihat penerapan polymorphism melalui overriding. Method tampilkanPerforma() dan toString() diimplementasikan ulang secara khusus di class pemain akademi untuk menampilkan informasi akademi dan tahun masuk. Hal ini memungkinkan setiap class turunan menampilkan data yang berbeda meskipun dipanggil dengan nama method yang sama.
 
 
+<img width="1237" height="248" alt="image" src="https://github.com/user-attachments/assets/0ae9fac4-769b-4d10-9f12-3e5d8b4b8ffe" />
+
+
+- Bagian ini menerapan method overloading pada method tampilkanPerforma(). Method pertama tanpa parameter, method kedua dengan parameter String tambahan. Perbedaan parameter ini memungkinkan Java membedakan kedua method meskipun namanya sama, sehingga terbukti menerapkan polymorphism jenis overloading.
 
 
 
