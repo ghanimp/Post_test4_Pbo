@@ -101,24 +101,22 @@ Ini merupakan tampilan package terbaru saya
 <img width="558" height="212" alt="image" src="https://github.com/user-attachments/assets/3c7cdb20-d0ed-49b1-b478-fa25c705b02d" />
 
 
-
 - Tampilan Awal dari sistem.
 
 
-<img width="836" height="235" alt="image" src="https://github.com/user-attachments/assets/6769a5eb-67a3-40fe-b174-7d7544d84e35" />
+<img width="865" height="338" alt="image" src="https://github.com/user-attachments/assets/fb4d6207-af6c-4071-877c-97df1e48220f" />
 
 
+- Tampilan ketika user memilih pilihan satu, user akan melakukan pemilihan apakah akan memasukan pemain senior atau akademi lalu memasukan data pemain sesuai yang dipilih, kemudia user akan memilih apakah akan membuat catatan performa pemain atau tidak. Lalu akan menampilkan "nama pemain yang dimasukan bermain di klub yang dimasukan. kemudian catatan sesuai yang user masukan".
 
-- Tampilan ketika user memilih pilihan satu, user akan melakukan pemilihan apakah akan memasukan pemain senior atau akademi lalu memasukan data pemain sesuai yang dipilih.
 
-
-<img width="1360" height="269" alt="image" src="https://github.com/user-attachments/assets/6d5b0725-8f96-45a5-a6e2-030efa5907cb" />
+<img width="1403" height="266" alt="image" src="https://github.com/user-attachments/assets/7fd3825d-ca3a-4bd4-bc5d-6427dea3d106" />
 
 
 - Selanjutnya ini adalah tampilan saat user ingin melihat daftar pemain yang ada, dimana user bisa memilih daftar pemain apa yang ingin dilihat, apakah ingin memilih menampilkan semua, pemain senior, atau pemain akademi.
 
 
-<img width="632" height="361" alt="image" src="https://github.com/user-attachments/assets/2d0a17ce-c99b-4d6d-a08c-988e20d6a15d" />
+<img width="629" height="360" alt="image" src="https://github.com/user-attachments/assets/e954ad3c-0c26-47a8-a0ee-0b4e095f8e8e" />
 
 
 - Tampilan saat user melakukan update, dimana terdapat pilihan untuk mengantisipasi adanya kesamaan data dari pemain senior dan pemain junior jika tidak dipisahkan.
@@ -130,7 +128,7 @@ Ini merupakan tampilan package terbaru saya
 - Tampilan saat menghapus pemain.
 
 
-<img width="846" height="127" alt="image" src="https://github.com/user-attachments/assets/91f4371f-464e-4bae-b471-b7edbe350509" />
+<img width="1368" height="107" alt="image" src="https://github.com/user-attachments/assets/8419babb-4ec9-41c7-a83a-e0ec074a09e5" />
 
 
 - Tampilan saat user mencari pemain yang ingin dicari.
